@@ -1,0 +1,1 @@
+https://aaronfrancis.com/2022/efficient-mysql-pagination-using-deferred-joins-15d0de14
